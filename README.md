@@ -129,7 +129,11 @@ Moteur de grand livre financier (Ledger) basé sur l'**Event Sourcing**, garanti
   <img src="https://streak-stats.demolab.com/?user=marc14444&theme=tokyonight&hide_border=true" alt="Streak GitHub"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marc14444&theme=tokyo-night&hide_border=true" width="100%" alt="Graphique d'activité"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marc14444/marc14444/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marc14444/marc14444/output/github-snake.svg">
+  <img alt="Serpent qui mange mes contributions GitHub" src="https://raw.githubusercontent.com/marc14444/marc14444/output/github-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
